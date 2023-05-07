@@ -1,0 +1,4 @@
+[api_keys]
+OPENAI_API_KEY = [your key here]
+PINECONE_API_KEY = [your key here]
+GOOGLE_API_JSON_PATH = [your path here]

@@ -1,0 +1,7 @@
+data/articles/*
+# avoid pushing config.ini with your credentials
+config.ini
+
+requirements_filtered.txt
+keys/*
+data/raw/*
